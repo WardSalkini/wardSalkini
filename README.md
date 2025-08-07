@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif" height="120" alt="clapping GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRqZ3N3ZHd3YzlycGFheGxqa3FlNW1uNzJ4cWxic2U0cjlpbXIwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BGKHrjfTMZX4g9y/giphy.gif" height="120" alt="clapping GIF" />
   <h1>Congratulations to find me</h1>
 </div>
 
