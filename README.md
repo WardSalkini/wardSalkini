@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="150" alt="welcome gif" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="120" alt="waving hand" />
+  <h1>Welcome to My GitHub Profile!</h1>
 </div>
+
 
 ###
 
