@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[DIRECT_GIF_URL_HERE](https://tenor.com/view/clap-ryan-gosling-applause-gif-17060828)" height="120" alt="Clapping GIF" />
+  <img src="(https://tenor.com/view/clap-ryan-gosling-applause-gif-17060828)" height="120" alt="Clapping GIF" />
   <h1>Congratulations to find me</h1>
 </div>
 
