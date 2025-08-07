@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="waving hand gif" />
-  <h1>Welcome to My GitHub Profile!</h1>
+  <img src="[DIRECT_GIF_URL_HERE](https://tenor.com/view/clap-ryan-gosling-applause-gif-17060828)" height="120" alt="Clapping GIF" />
+  <h1>Congratulations to find me</h1>
 </div>
-
 
 
 ###
