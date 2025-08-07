@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="150" alt="welcome gif" />
+</div>
 
-
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ward-salkini-076a80353">
@@ -24,11 +27,10 @@
 ###
 
 <p align="left">
-I'm Ward Salkini, a Biomedical Engineering student .<br><br>
+I'm Ward Salkini, a Biomedical Engineering student.<br><br>
 - 🔭 Passionate about the intersection of AI, medicine, and neuroscience.<br>
 - 📚 Currently exploring AI and developing applications in the medical field.<br>
 - ⚡ Enjoy turning ideas into real-world coding projects.
-
 </p>
 
 ###
@@ -42,7 +44,7 @@ I'm Ward Salkini, a Biomedical Engineering student .<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
