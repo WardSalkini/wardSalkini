@@ -1,23 +1,24 @@
 <div align="center">
+  <a href="mailto:mhd.salkini06@eng-st.cu.edu.eg">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/ward-salkini-076a80353">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+---
+
+<div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRqZ3N3ZHd3YzlycGFheGxqa3FlNW1uNzJ4cWxic2U0cjlpbXIwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BGKHrjfTMZX4g9y/giphy.gif" height="120" alt="clapping GIF" />
   <h1>Congratulations to find me</h1>
 </div>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
+---
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ward-salkini-076a80353">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-
-<h3 align="left"> About Me</h3>
-
-###
+<h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
 I'm Ward Salkini, a Biomedical Engineering student.<br><br>
@@ -26,11 +27,9 @@ I'm Ward Salkini, a Biomedical Engineering student.<br><br>
 - ⚡ Enjoy turning ideas into real-world coding projects.
 </p>
 
-###
+---
 
 <h3 align="left">🛠 Languages and Tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
